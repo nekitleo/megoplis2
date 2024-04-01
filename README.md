@@ -3,4 +3,4 @@
 3. ДА
 4. git clone "https://github.com/nekitleo/megoplis2"
    и запустить любой питон файл
-   5. По назначению
+5. По назначению
